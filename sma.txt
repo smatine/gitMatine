@@ -1,4 +1,4 @@
-Voici le certificat et la clef privée en format YAML.
+Voici le certificat et la clef privé¦¥ en format YAML.
 
     certificate: |
       -----BEGIN CERTIFICATE-----
@@ -117,4 +117,4 @@ Voici le certificat et la clef privée en format YAML.
       JJHxXlret+sjK+orUAqfT3jvMMXGO7kqz8Mef1dgcK2ZR5oq8c9MrLQWzRBYL5qY
       1L5vik7nyfK7ElX6t5YSr5+fzBX5uZxApOcnCnzbuSJXhgOyW3R5ohZrzRyCkg==
       -----END RSA PRIVATE KEY-----
-
+internal-eos-alb-632044578.eu-west-1.elb.amazonaws.com
