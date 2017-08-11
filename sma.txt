@@ -118,3 +118,4 @@ Voici le certificat et la clef priv馥 en format YAML.
       1L5vik7nyfK7ElX6t5YSr5+fzBX5uZxApOcnCnzbuSJXhgOyW3R5ohZrzRyCkg==
       -----END RSA PRIVATE KEY-----
 internal-eos-alb-632044578.eu-west-1.elb.amazonaws.com
+internal-alb-isadco-904774875.eu-west-1.elb.amazonaws.com
