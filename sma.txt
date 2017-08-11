@@ -119,3 +119,5 @@ Voici le certificat et la clef priv馥 en format YAML.
       -----END RSA PRIVATE KEY-----
 internal-eos-alb-632044578.eu-west-1.elb.amazonaws.com
 internal-alb-isadco-904774875.eu-west-1.elb.amazonaws.com
+
+vpc-a4f87ac3   172.17.183.0/24
